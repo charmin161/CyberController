@@ -23,4 +23,4 @@ process(params)
 > 也就是说，如果有新的对电脑的控制，不需要修改电脑上的python程序，直接在客户端编写新的脚本发送过去注入执行就好。
 
 ### 电脑端代码
-https://github.com/KikiLetGo/CyberControllerServer
+https://github.com/charminsong/CyberControllerServer
